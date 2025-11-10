@@ -100,10 +100,7 @@ It supports:
 2. Open in Xcode:
    open Rick&Morty.xcodeproj
 
-3. Install dependencies (via Swift Package Manager):
-   - SDWebImageSwiftUI
-
-4. Run the app on any iPhone simulator or device (iOS 15.6+).
+3. Run the app on any iPhone simulator or device (iOS 15.6+).
 
 ---
 
